@@ -35,7 +35,7 @@ Make sure you have Python installed on your machine. You can download it from [p
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   https://github.com/Selorme/quizzler.git
 
 2. Navigate to the project directory:
    ```bash
